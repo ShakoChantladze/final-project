@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'first-font';
+    src: url(./fonts/Poppins-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'second-font';
+    src: url(./fonts/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: 'third-font';
+    src: url(./fonts/GlacialIndifference-Regular.ttf);
+}
+@font-face {
+    font-family: 'fourth-font';
+    src: url(./fonts/GlacialIndifference-Bold.ttf);
+}
+@font-face {
+    font-family: 'fifth-font';
+    src: url(./fonts/Muli.ttf);
+}
+@font-face {
+    font-family: 'sixth-font';
+    src: url(./fonts/Poppins-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'seventh-font';
+    src: url(./fonts/Jaapokki-Regular.ttf);
+}
+@font-face {
+    font-family: 'eighth-font';
+    src: url(./fonts/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: 'ninth-font';
+    src: url(./fonts/Muli-Light.ttf);
+}
+@font-face {
+    font-family: 'tenth-font';
+    src: url(./fonts/Muli-Regular.ttf);
+}
